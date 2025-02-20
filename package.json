@@ -1,7 +1,6 @@
 {
   "name": "portfolio-ahmada",
   "version": "0.1.0",
-  "homepage": "https://ameahmada.github.io/portfolio-ahmada",
   "private": true,
   "dependencies": {
     "@testing-library/dom": "^10.4.0",
